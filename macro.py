@@ -1,5 +1,7 @@
 import re
 expanding =  0
+f = open("text.nasm","r")import re
+expanding =  0
 f = open("text.nasm","r")
 args = []
 deftab = []
